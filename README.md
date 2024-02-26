@@ -1,1 +1,1 @@
-# xchiretechnology
+# Xchire Tourism Management System
